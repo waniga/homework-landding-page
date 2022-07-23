@@ -1,0 +1,60 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    height: 15vh;
+    align-items: center;
+}
+
+.header-right{
+    display: flex;
+
+
+}
+
+a{
+
+    margin: 5px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h5{
+    margin-top: -18px;
+}
+
+.container{
+    width: 100vw;
+    height: 84vh;
+    /* background-color: blue; */
+    background-image: url("https://i.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+button{
+    width: 100px;
+    background-color: black;
+    color: white;
+
+}
+
+button:hover{
+    width: 100px;
+    background-color:white;
+    color: black;
+}
+
+.success{
+    font-size: 72px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+

@@ -1,0 +1,69 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    height: 15vh;
+    align-items: center;
+}
+
+.header-right{
+    display: flex;
+
+
+}
+
+a{
+
+    margin: 5px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h5{
+    margin-top: -18px;
+}
+
+
+.container{
+    width: 100wh;
+    height: 84vh;
+    display: flex;
+
+}
+
+.content{
+    width: 500px;
+    height: 100%;
+    padding-left: 250px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+.image {
+     width: 50vw;
+    height: 100%;
+
+    background-image: url("https://picsum.photos/id/237/200/300");
+    /* background-color: rebeccapurple; */
+}   
+
+button{
+width: 100px;
+height: 35px;
+background-color: black;
+color: #fff;
+}
+
+button:hover{
+    width: 100px;
+    height: 35px;
+    background-color:  #fff;
+    color:black;
+    }
+
+/* .box{
+    width: 10px;
+    height: 100%;
+} */
